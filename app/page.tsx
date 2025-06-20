@@ -1,3 +1,7 @@
 export default function Home() {
-  return <main className="p-4">Stock Opname Homepage</main>;
+  return (
+    <main>
+      <h1>Selamat datang di Luminous Skincare Stock Opname</h1>
+    </main>
+  )
 }
